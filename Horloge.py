@@ -1,6 +1,6 @@
 import time
 
-# Initialisation de l'heure
+# Heure
 heure = (0, 0, 0)
 mode_affichage = "24h"
 alarme = None
